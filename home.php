@@ -105,9 +105,9 @@
     </div>
 
     <div class="container">
-        <h1>Selamat Datang 👋</h1>
+        <h1>Selamat Datang teman"</h1>
         <p>
-            ini halaman home kamii
+            Ini adalah tampilan home sederhana yang saya buat
         </p>
 
         <a class="btn" href="index.html">Kembali ke Index</a>
