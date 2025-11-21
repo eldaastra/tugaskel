@@ -107,8 +107,7 @@
     <div class="container">
         <h1>Selamat Datang 👋</h1>
         <p>
-            Tampilan kini berada tepat di tengah halaman, dengan background foto berkualitas tinggi  
-            dan efek glass yang modern dan elegan.
+            ini halaman home kamii
         </p>
 
         <a class="btn" href="index.html">Kembali ke Index</a>
