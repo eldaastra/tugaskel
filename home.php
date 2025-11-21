@@ -107,7 +107,7 @@
     <div class="container">
         <h1>Selamat Datang 👋</h1>
         <p>
-            ini halaman home kamii
+            ini halaman home kelompok kami
         </p>
 
         <a class="btn" href="index.html">Kembali ke Index</a>
